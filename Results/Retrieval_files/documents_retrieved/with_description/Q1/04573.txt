@@ -1,0 +1,45 @@
+Título: TOMATE - Fitossanidade - Bactérias - Murcha-bacteriana ou Murchadeira (Ralstonia solanacearum)
+URL: https://sistemas.epagri.sc.gov.br/sedimob/consulta.action?subFuncao=consultaDiagnostico&cdEstrutura=04573&isEdicao=N&epagriTEC=S
+
+[IMAGEM] http://intranetdoc.epagri.sc.gov.br/sedimob/img/sedimob_icone_tomate_color.png
+[IMAGEM] http://intranetdoc.epagri.sc.gov.br/sedimob/img_elemento/%5B1627%5D%7B530%7Dfig_5b_ralstonia_-_planta_adulta.jpg
+Tomateiro apresentando sintomas avançados de Murcha-bacteriana, com uma severa e irreversível murcha das folhas que, embora secas e pendentes, permanecem presas ao caule.
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B381%7Dfig_5a_ralstonia_-__sintomas_inciais.jpg
+Planta jovem de tomate exibindo murcha flácida nas folhas, sintoma inicial e característico da infecção pela Murcha-bacteriana (*Ralstonia solanacearum*).
+Legenda: Planta do tomateiro com os sintomas iniciais da murcha. Foto: Alexandre Visconti
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B291%7Dmurchadeira_2.jpg
+Tomateiro apresentando sintoma clássico de Murcha-bacteriana: uma murcha severa e generalizada das folhas, que se tornam flácidas e caídas, mas mantêm a coloração esverdeada, indicando o colapso do sistema vascular da planta.
+Legenda: Planta do tomateiro estaqueado atacado pela murcha. Foto: Rafael G. F. Morales
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B395%7Dfig_5b_ralstonia_-_planta_adulta.jpg
+Tomateiro exibindo sintomas característicos da Murcha-bacteriana: murcha severa e necrose das folhas inferiores, contrastando com folhas ainda verdes no topo da planta, um sinal claro da obstrução vascular causada pela bactéria.
+Legenda: Planta do tomateiro estaqueado atacado pela murcha. Foto: Alexandre Visconti
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B221%7Dmurchadeira_6.jpg
+Planta de tomate exibindo sintoma avançado de murcha-bacteriana, com perda total de turgescência e folhas pendentes, resultando no colapso da planta.
+Legenda: Planta do tomateiro estaqueado atacado pela murcha. Foto: Rafael G. F. Morales
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B366%7Dmurchadeira_5.jpg
+Diagnóstico visual da Murcha-Bacteriana em tomateiro através do 'Teste do Copo'. A liberação de um exsudato bacteriano esbranquiçado e filamentoso do caule imerso em água confirma a presença da bactéria *Ralstonia solanacearum* obstruindo os vasos condutores da planta.
+Legenda: Teste do copo para confirmação da doença. Foto: Rafael G. F. Morales
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B215%7Dmurchadeira_3.jpg
+Diagnóstico da Murcha-bacteriana em tomateiro através do 'teste do copo': um caule infectado, imerso em água, libera um exsudato bacteriano leitoso, sinal inequívoco da obstrução dos vasos condutores pela bactéria *Ralstonia solanacearum*.
+Legenda: Teste do copo para confirmação da doença. Foto: Rafael G. F. Morales
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B440%7Dfig_6_ralstonia_teste_do_copo.jpg
+**Diagnóstico da Murcha Bacteriana através do "teste do copo": um fio leitoso de exsudato bacteriano é liberado de um caule infectado ao ser imerso em água, confirmando a presença do patógeno nos vasos condutores da planta.
+Legenda: Teste do copo para confirmação da doença. Foto: Alexandre Visconti
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1627%5D%7B326%7Dmurchadeira_1.jpg
+Diagnóstico da Murcha-bacteriana em tomateiro através do 'teste do copo', onde um corte do caule imerso em água libera um exsudato bacteriano leitoso, confirmando a presença da bactéria *Ralstonia solanacearum* nos vasos condutores da planta.
+Legenda: Teste do copo para confirmação da doença. Foto: Rafael G. F. Morales
+
+-- INFORMAÇÕES GERAIS: --
+- Atualmente não existe cultivares com alta resistência genética (3). Contudo, estão disponíveis no mercado porta-enxertos que conferem resistência ao patógeno. - No caso de cultivo em áreas com histórico da doença, utilizar a técnica da enxertia com porta-enxertos resistentes (Pesquisar no próprio aplicativo).
+
+-- SINTOMAS: --
+Primeiramente se observa a murcha da parte superior da planta, inicialmente em folhas mais novas da planta (3) e principalmente no inicio da frutificação (1), iniciando nas horas mais quentes do dia (2). Geralmente ocorre em reboleiras. Em condições favoráveis ao desenvolvimento da doença, em poucos dias a murcha atinge completamente a planta, que por fim seca e morre (1). As plantas murchas apresentam escurecimento dos vasos, com maior intensidade na base da planta, mais facilmente visível ao descascar o caule (1,2). A diagnose pode ser confirmada com o “teste do copo”, que consiste em colocar uma porção da base do caule cortada e limpa num copo transparente contendo água limpa. O teste será positivo quando após alguns minutos, se um fluxo de pus bacteriano escorrer da extremidade do caule para o fundo do copo (1,2).
+
+-- O QUE PODE ESTAR OCORRENDO: --
+- O solo pode estar sob condições de alta temperatura e elevada umidade (2,3). - Além disso, a contaminação pode se dar através de água de irrigação e implementos e máquinas contaminadas. - Pode estar associado à presença de plantas hospedeiras, principalmente das famílias das Solanáceas, Compostas e Musáceas.
+
+-- CONTROLE: --
+- Plantio em solos bem drenados, em épocas de baixa temperatura e umidade (1). - Evitar irrigações muito frequentes e trânsitos de pessoas na área de cultivo (1). - Eliminar plantas daninhas, em especial solanáceas (1). - Solarizar o solo a fim de reduzir a população bacteriana (1). - Realizar rotação de culturas com gramíneas (1). - Desinfecção de implementos utilizados nas áreas contaminadas (1).
+
+-- Informações Complementares --
+(1) LOPES, C. A.; AVILA, A. C.. Doenças do tomateiro. 2. ed. Brasília- Df: Embrapa Hortaliça, 2005. 144 p. (2) ALVARENGA, M. A. R. Tomate: produção em campo, casa-de-vegetação e em hidroponia. UFLA, 2004. (3) SILVA, D. J. H.; VALE, F. X. R. Tomate: tecnologia de produção. Viçosa, MG: UFV, 2007.
