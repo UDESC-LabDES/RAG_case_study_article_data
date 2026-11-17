@@ -1,0 +1,21 @@
+Título: TOMATE - Fitossanidade - Distúrbios Fisiológicos e outros - Rachaduras cuticulares
+URL: https://sistemas.epagri.sc.gov.br/sedimob/consulta.action?subFuncao=consultaDiagnostico&cdEstrutura=04603&isEdicao=N&epagriTEC=S
+
+[IMAGEM] http://intranetdoc.epagri.sc.gov.br/sedimob/img/sedimob_icone_tomate_color.png
+[IMAGEM] http://intranetdoc.epagri.sc.gov.br/sedimob/img_elemento/%5B1517%5D%7B219%7D20190912_092925.jpg
+Tomate verde exibindo sintomas de rachaduras cuticulares, caracterizadas por uma fina rede de fissuras superficiais com aspecto de cortiça e coloração acastanhada na região do ombro do fruto.
+[IMAGEM] https://intranetdoc.epagri.sc.gov.br/sedimob/arq_anexos/%5B1517%5D%7B474%7D20190912_092925.jpg
+Fruto de tomate verde exibindo sintomas de rachaduras cuticulares (microfissuras), caracterizadas por uma rede de finas lesões corticosas e de cor castanha na superfície da casca, um distúrbio fisiológico causado por variações ambientais.
+Legenda: Rachadura cuticular. Foto: Rafael G. F. Morales
+
+-- SINTOMAS: --
+Em frutos verdes, geralmente após a ocorrência de chuvas surgem, cicatrizes numerosas e pequenas, de forma concêntrica, ao redor do ponto de inserção peduncular que são denominadas de "rain check”. À medida que os frutos amadurecem, as rachaduras coalescem, formando manchas escuras, e dão origem a outra anomalia, denominada, ombro-negro (1).
+
+-- O QUE PODE ESTAR OCORRENDO: --
+- Grande variação entre temperatura diurna e noturna (1). - Condutividade elétrica inadequada da solução nutritiva (1). - Excesso de precipitação antes do amadurecimento dos frutos (1).
+
+-- CONTROLE: --
+- Manter a condutividade elétrica da solução acima de 3,0 (1). - Evitar situações que contribuam para grandes variações entre as temperaturas diurnas e noturnas (1). - Evitar grandes flutuações no fornecimento de água (1).
+
+-- Informações Complementares --
+(1) LOPES, C. A; ÁVILA, A. C de. Doenças do Tomateiro. Brasília: Embrapa Hortaliças, 2005.
